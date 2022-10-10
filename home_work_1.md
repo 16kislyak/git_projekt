@@ -1,23 +1,23 @@
 # Команды GIT
 
-git --version
+git --version - узнать версию Git-а (установлен ли);
 
-git init
+git init - создание репозитория;
 
-git status
+git status - узнать статус (что происходит);
 
-git add FileName
+git add FileName - сохранить файл;
 
-git commit -m "Comment"
+git commit -m "Comment" - комментарий к сохранениию/изменению;
 
-git log
+git log - просмотр версий/изменений;
 
-git checkout {4+ symbol}
+git checkout {4+ symbol} - перейти к какой-либо из версий;
 
-git checkout master
+git checkout master - продолжить работу после переключения версий;
 
-git diff
+git diff - просмотреть разницу между сохраненной и текущей версиями;
 
-git config --global user.name "Username"
+git config --global user.name "Username" - указать название пользователя;
 
-git config --global user.email "Email"
+git config --global user.email "Email" - указать адрес пользователя;
