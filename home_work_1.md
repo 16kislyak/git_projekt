@@ -21,3 +21,5 @@
 * **git config --global user.name "Username"** - *указать название пользователя*;
 
 * **git config --global user.email "Email"** - *указать адрес пользователя*;
+
+* *и другие...*
